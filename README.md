@@ -11,3 +11,5 @@ And I have came up with a accel controled snake game.
 I'm a total noob in coding and I didn't know where to begin.  
 Thats why I went to AI. It weren't a smooth process but after few iterations we got there. Atleast it explained it to me.  
 I'm going to learn Cpp this school year so that's exiting!  
+
+![Snake](https://github.com/Tomas-Kuchta-FPV/8x8Matrix-Snake-Game/Snake.png)
